@@ -1,5 +1,5 @@
 
 
-print('init git')
+print('init git master')
 # changes
 # new_commit
