@@ -1,5 +1,4 @@
 
 
-print('init git master')
+print('init git branch')
 # changes
-# new_commit
